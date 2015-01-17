@@ -33,7 +33,7 @@ angular.module('sm-meetApp.login',  ['firebase', 'ngCookies', 'ngCordova','ionic
           if(error === null) {
             $scope.simpleLogin(theEmail, thePass);
           } else {
-            console.error("Error!", error);
+            alert("Error!", error);
           }
         });
     }

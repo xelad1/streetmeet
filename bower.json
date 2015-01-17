@@ -23,6 +23,7 @@
     "jquery": "~2.1.2",
     "ngCordova": "~0.1.10-alpha",
     "quojs": "~3.0.6",
-    "moment": "~2.9.0"
+    "moment": "~2.9.0",
+    "alertifyjs": "~0.3.15"
   }
 }
